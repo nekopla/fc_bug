@@ -2,7 +2,7 @@
 
 This is a script that creates a buggy photo like NES (Family Computer).
 
-## sample
+## Samples
 input image:
 
 ![sample 01](sample_image/01.jpg)
@@ -27,8 +27,8 @@ output image:
 
 ![sample 03 output](sample_image/out_03.jpg)
 
-## usage
+## Usage
 
-```python fc_bug.py [file_name or directory_name]```
+```$ python fc_bug.py [file_name or directory_name]```
 
 If you put a directory's name, all images in the directory will be processed at once.
